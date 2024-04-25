@@ -1,2 +1,4 @@
-package com.mahery.backendsmarttixjava.customer;public class Customer {
+package com.mahery.backendsmarttixjava.customer;
+
+public class Customer {
 }
